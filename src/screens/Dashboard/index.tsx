@@ -4,7 +4,7 @@ import { Container, Title } from "./styles"
 export function Dashboard() {
   return (
     <Container>
-      <Title>Dash</Title>
+      <Title>Dashboard2</Title>
     </Container>
   )
 }
