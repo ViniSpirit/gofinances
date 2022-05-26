@@ -5,6 +5,8 @@ export function Dashboard() {
   return (
     <Container>
       <Title>Dash</Title>
+      <Title>Dash2</Title>
+      <Title>Dash3</Title>
     </Container>
   )
 }
